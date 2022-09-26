@@ -151,9 +151,8 @@
 .services__modal-services {
   /* row-gap: 0.75rem; */
   width: 100%;
-  background: rgb(150, 25, 150);
-  display: flex;
-  justify-content: center;
+  background: rgb(150, 112, 25);
+  margin: auto;
 }
 .services__modal-services img {
   height: 300px;
