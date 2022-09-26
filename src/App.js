@@ -79,6 +79,7 @@ const GlobalStyles = createGlobalStyle`
   body {
     background: ${(props) => props.theme.colors.bgDefault};
     font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
   }
   a {
     text-decoration: none;
