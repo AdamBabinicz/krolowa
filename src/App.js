@@ -73,13 +73,13 @@ const GlobalStyles = createGlobalStyle`
     box-sizing: border-box;
   }
   html {
-    overflow-x: hidden;
+     /* overflow-x: hidden; */
     scroll-behavior: smooth;
   }
   body {
     background: ${(props) => props.theme.colors.bgDefault};
     font-family: 'Roboto', sans-serif;
-    overflow-x: hidden;
+     /* overflow-x: hidden; */
   }
   a {
     text-decoration: none;
