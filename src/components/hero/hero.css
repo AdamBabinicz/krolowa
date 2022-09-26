@@ -150,8 +150,7 @@
 }
 .services__modal-services {
   /* row-gap: 0.75rem; */
-  background: orange;
-  margin: auto;
+  background: violet;
 }
 .services__modal-services img {
   height: 300px;
@@ -159,6 +158,8 @@
   object-fit: cover;
   -webkit-box-shadow: 0px -1px 15px -5px #dad0d0;
   box-shadow: 0px -1px 15px -5px #454343;
+  display: flex;
+  justify-content: center;
 }
 .services__modal-service {
   display: flex;
