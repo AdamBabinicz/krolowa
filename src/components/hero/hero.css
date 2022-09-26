@@ -151,7 +151,7 @@
 .services__modal-services {
   /* row-gap: 0.75rem; */
   width: 100%;
-  background: rgb(25, 119, 150);
+  background: rgb(150, 25, 150);
   display: flex;
   justify-content: center;
 }
