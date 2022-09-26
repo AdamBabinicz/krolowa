@@ -62,9 +62,9 @@ const Navbar = ({ mode, setMode }) => {
               jej miejscem zamieszkania. Musicie przyznać, że to niezwykle
               pragmatyczne podejście...
             </p>
-            <ul className="services__modal-services">
+            <div className="services__modal-services">
               <img src={img1} alt="..." />
-            </ul>
+            </div>
           </div>
         </div>
         <DarkMode onClick={() => setMode(!mode)} />
