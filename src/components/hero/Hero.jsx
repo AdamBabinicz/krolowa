@@ -43,7 +43,7 @@ const Hero = () => {
                 dynastii Windsorów od 6 lutego 1952 (koronowana 2 czerwca 1953)
                 do 8 września 2022.
               </p>
-              <ul className="services__modal-services grid">
+              <ul className="services__modal-services">
                 <img src={img1} alt="..." />
               </ul>
             </div>
