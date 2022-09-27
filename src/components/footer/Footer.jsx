@@ -73,11 +73,11 @@ const Container = styled.div`
   background: black;
   width: 100%;
   margin-top: 5%;
-  height: 40% !important;
+  min-height: 40vh !important;
 
   @media only screen and (max-width: 600px) {
     width: 100%;
-    height: 100vh !important;
+    /* height: 100vh !important; */
     padding-bottom: 5%;
   }
 
