@@ -83,6 +83,7 @@ const Container = styled.div`
   justify-content: space-between;
   align-items: center;
   background: ${(props) => props.theme.colors.bgDefault};
+  top: 0;
 
   @media only screen and (max-width: 600px) {
     width: 100%;
