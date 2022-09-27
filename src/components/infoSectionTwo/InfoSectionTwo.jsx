@@ -65,18 +65,20 @@ export const TextWrapper = styled.div`
 `;
 
 const Title = styled.div`
-  color: ${(props) => props.theme.colors.bgDefault};
+  /* color: ${(props) => props.theme.colors.bgDefault}; */
   font-size: 30px;
   font-weight: bold;
   padding: 2%;
+  color: white;
 `;
 
 const Description = styled.p`
-  color: ${(props) => props.theme.colors.bgDefault};
+  /* color: ${(props) => props.theme.colors.bgDefault}; */
   width: 40%;
   margin-bottom: 5%;
   font-weight: lighter;
   font-size: 20px;
+  color: white;
 
   @media only screen and (max-width: 600px) {
     width: 90%;
