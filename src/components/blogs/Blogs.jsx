@@ -61,9 +61,9 @@ const Blogs = () => {
                   Buckingham limuzyną i eskortuje królową Elżbietę II do
                   śmigłowca.
                 </p>
-                <ul className="services__modal-services grid">
+                <div className="services__modal-services grid">
                   <img src={img1} alt="..." />
-                </ul>
+                </div>
               </div>
             </div>
           </CardContent>
@@ -102,9 +102,9 @@ const Blogs = () => {
                   Kelly napisała: „Jej Królewska Mość jest zawsze oszczędna i
                   lubi, gdy jej ubrania nadają się do ponownego użycia.
                 </p>
-                <ul className="services__modal-services grid">
+                <div className="services__modal-services grid">
                   <img src={img4} alt="..." />
-                </ul>
+                </div>
               </div>
             </div>
           </CardContent>
@@ -141,9 +141,9 @@ const Blogs = () => {
                   aż do końca - także na kilka dni przed jej śmiercią, podczas
                   mianowania Liz Truss premierem Wielkiej Brytanii.
                 </p>
-                <ul className="services__modal-services grid">
+                <div className="services__modal-services grid">
                   <img src={img5} alt="..." />
-                </ul>
+                </div>
               </div>
             </div>
           </CardContent>

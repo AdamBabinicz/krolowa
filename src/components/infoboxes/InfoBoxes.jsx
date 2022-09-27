@@ -72,9 +72,9 @@ const InfoBoxes = () => {
                   panowała Elżbieta II zmieniała się podczas jej panowania.
                   Wszystkich państw, które uznawały ją za głowę państwa było 33.
                 </p>
-                <ul className="services__modal-services grid">
+                <div className="services__modal-services grid">
                   <img src={img1} alt="..." />
-                </ul>
+                </div>
               </div>
             </div>
           </CardContent>
@@ -117,9 +117,9 @@ const InfoBoxes = () => {
                   Loi de 1982 sur le Canada) zerwało ostatnie więzi zależności
                   od parlamentu brytyjskiego.
                 </p>
-                <ul className="services__modal-services grid">
+                <div className="services__modal-services grid">
                   <img src={img2} alt="..." />
-                </ul>
+                </div>
               </div>
             </div>
           </CardContent>
@@ -162,9 +162,9 @@ const InfoBoxes = () => {
                   z USA oraz Nową Zelandią zwane jako Pakt Bezpieczeństwa
                   Pacyfiku.
                 </p>
-                <ul className="services__modal-services grid">
+                <div className="services__modal-services grid">
                   <img src={img3} alt="..." />
-                </ul>
+                </div>
               </div>
             </div>
           </CardContent>
@@ -212,9 +212,9 @@ const InfoBoxes = () => {
                   Gubernatora generalnego. Jest on wybierany w porozumieniu
                   monarchy i rządu Nowej Zelandii na pięcioletnią kadencję.
                 </p>
-                <ul className="services__modal-services grid">
+                <div className="services__modal-services grid">
                   <img src={img4} alt="..." />
-                </ul>
+                </div>
               </div>
             </div>
           </CardContent>
@@ -261,9 +261,9 @@ const InfoBoxes = () => {
                   udziałowi RPA w wojnie przeciwko Niemcom przeprowadziły
                   zamachy terrorystyczne na cele rządowe.
                 </p>
-                <ul className="services__modal-services grid">
+                <div className="services__modal-services grid">
                   <img src={img5} alt="..." />
-                </ul>
+                </div>
               </div>
             </div>
           </CardContent>
@@ -308,9 +308,9 @@ const InfoBoxes = () => {
                   miliona akrów feudałów które zostały rozdystrybuowane
                   bezrolnym chłopom.
                 </p>
-                <ul className="services__modal-services grid">
+                <div className="services__modal-services grid">
                   <img src={img6} alt="..." />
-                </ul>
+                </div>
               </div>
             </div>
           </CardContent>
@@ -358,9 +358,9 @@ const InfoBoxes = () => {
                   Lakbima. Lak to skrót od Lanka. Podobną etymologię nazwy wyspy
                   ma tamilska İlankai.
                 </p>
-                <ul className="services__modal-services grid">
+                <div className="services__modal-services grid">
                   <img src={img7} alt="..." />
-                </ul>
+                </div>
               </div>
             </div>
           </CardContent>
