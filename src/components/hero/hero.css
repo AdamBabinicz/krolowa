@@ -150,7 +150,6 @@
 }
 .services__modal-services {
   row-gap: 0.75rem;
-  background: rgb(125, 150, 25);
 }
 .services__modal-services img {
   height: 300px;
