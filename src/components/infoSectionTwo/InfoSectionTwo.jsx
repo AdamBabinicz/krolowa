@@ -83,6 +83,7 @@ const Description = styled.p`
   @media only screen and (max-width: 600px) {
     width: 90%;
     font-size: 18px;
+    font-weight: normal;
   }
 
   @media only screen and (min-width: 600px) {
