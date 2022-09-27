@@ -60,7 +60,7 @@ export const Description = styled.div`
 export const Button = styled.a`
   color: ${(props) => props.theme.colors.secondary};
   font-weight: bold;
-  margin: 10px 0;
+  margin: 0 20px 30px;
   cursor: pointer;
 `;
 
