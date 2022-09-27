@@ -22,6 +22,10 @@ const Container = styled.div`
 
 const Title = styled.div`
   color: tomato;
+
+  @media only screen and (max-width: 600px) {
+    margin: 0 10px;
+  }
 `;
 
 const Subtitle = styled.div`
@@ -29,4 +33,8 @@ const Subtitle = styled.div`
   font-size: 50px;
   margin: 5px;
   color: ${(props) => props.theme.colors.primary};
+
+  @media only screen and (max-width: 768px) {
+    font-size: 30px;
+  }
 `;

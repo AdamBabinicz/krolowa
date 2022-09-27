@@ -77,16 +77,16 @@ const Container = styled.div`
 
   @media only screen and (max-width: 600px) {
     width: 100%;
-    height: fit-content;
+    height: 100vh !important;
     padding-bottom: 5%;
   }
 
   @media only screen and (min-width: 600px) {
-    height: 20%;
+    height: 20% !important;
   }
 
   @media only screen and (min-width: 992px) {
-    height: 30%;
+    height: 30% !important;
   }
 `;
 
